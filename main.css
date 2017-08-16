@@ -49,6 +49,10 @@ h5.modal-title {
     padding: 15px;
 }
 
+.fa {
+    margin: 10px;
+}
+
 .fa-facebook-square {
     color: #3b5998;
 }
@@ -59,4 +63,8 @@ h5.modal-title {
 
 .fa-instagram {
     color: #ffffff;
+}
+
+.socialWrapper {
+    margin: auto;
 }
