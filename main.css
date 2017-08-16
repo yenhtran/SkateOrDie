@@ -44,3 +44,19 @@ h5.modal-title {
     margin-bottom: 20px;
     width: 54%;
 }
+
+.footerImg {
+    padding: 15px;
+}
+
+.fa-facebook-square {
+    color: #3b5998;
+}
+
+.fa-google-plus-square {
+    color: #c32f10;
+}
+
+.fa-instagram {
+    color: #ffffff;
+}
